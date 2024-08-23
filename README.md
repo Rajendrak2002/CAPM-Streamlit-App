@@ -80,7 +80,7 @@ We developed a web application using Python with Streamlit framework to quickly 
 
 [Click to view full code of CAPM Return](https://github.com/Rajendrak2002/CAPM-Streamlit-App/blob/main/CAPM_Return.py)
 
-[Click to view full code of CAPM Functions](https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis/blob/main/capm_functions.py
+[Click to view full code of CAPM Functions](https://github.com/Rajendrak2002/CAPM-Streamlit-App/blob/main/CAPM_functions.py
 )
 <br>
 
