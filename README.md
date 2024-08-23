@@ -24,8 +24,8 @@ This project showcases a web application that is designed to perform CAPM calcul
 <br>
 
 <p align="center">
-  <kbd><img width="400" src="(https://github.com/user-attachments/assets/0a13042d-773c-4677-b696-2e93fbe909b2)
-a\Downloads\Capital-Asset-Pricing-Model-Formula.jpg"></kbd> <br>
+  <kbd><img width="400" src="![Capital-Asset-Pricing-Model-Formula](https://github.com/user-attachments/assets/ae97c7ed-59f7-4444-a7d2-b4cde47fabf2)
+"></kbd> <br>
   Figure 1 — CAPM Formula
 </p>
 <br>
