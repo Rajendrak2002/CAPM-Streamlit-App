@@ -24,7 +24,7 @@ This project showcases a web application that is designed to perform CAPM calcul
 <br>
 
 <p align="center">
-  <kbd><img width="400" src="https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting/assets/139193734/54878d70-c2e3-4da6-9cb6-f1a4438dbeed"></kbd> <br>
+  <kbd><img width="400" src=""C:\Users\praja\Downloads\Capital-Asset-Pricing-Model-Formula.jpg""></kbd> <br>
   Figure 1 — CAPM Formula
 </p>
 <br>
